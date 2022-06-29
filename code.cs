@@ -14,7 +14,7 @@ class Shivanie
         a4 = Convert.ToDouble(a2);
         while (a4 > 0)
         {
-            a3 = a4 / 100;
+            a3 = a4 / 100; //1000?10000?100000
             break;
         }
         a5 = a1 + a3;
