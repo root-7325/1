@@ -1,5 +1,5 @@
 using System;
-class Shivanie drobi
+class Shivanie
 {
     static void Main()
     {
